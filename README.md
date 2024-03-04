@@ -1,2 +1,3 @@
 # Services
-A website and app (eventually an app) where you can hire people in order to get certain job done through multipule services.
+A website and app (eventually an app) where you can hire people in order to get a certain job done through multipule services.
+In a nutshell it is a mix of AirBNB and Fiver. You will be able to access the app/website enter your location and scroll through a number of profiles of people that offer diffrent services. For example you can hire a person to clean your drivethrough. Through the app/website you can hire them. Check how far they are from you and their availability. The price of their serivce and see ratings from other people who have used this persons service. Also the map feature is a work in progress, it will moslty be used to show a general area where the service will be cheaper because it is closer to the location of the service provider ot it might be scrateched as an idea.
